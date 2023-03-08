@@ -1,0 +1,2 @@
+shell basics
+system devops
